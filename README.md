@@ -23,7 +23,8 @@ This initial step holds significant importance as it lays the groundwork for sub
 # Running the Console
 You can utilize the console in both interactive and non-interactive modes:
 Interactive mode:
-$ ./console.py
+'''python3
+ $ ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
