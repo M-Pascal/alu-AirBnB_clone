@@ -4,11 +4,11 @@ The objective of this project is to deploy a simplified version of the AirBnB we
 # What is a command Interpreter?
 Think of it as similar to the Shell, but tailored to a specific use-case. In our context, we aim to manage the objects within our project with the following capabilities:
 
-Create a new object (e.g., a new User or a new Place)
-Retrieve an object from a file, a database, etc.
-Perform operations on objects (e.g., counting, computing statistics, etc.)
-Update attributes of an object.
-Delete an object.
+*Create a new object (e.g., a new User or a new Place)
+*Retrieve an object from a file, a database, etc.
+*Perform operations on objects (e.g., counting, computing statistics, etc.)
+*Update attributes of an object.
+*Delete an object.
 
 # Steps that will taken to Develop a Command Interpreter for Managing AirBnB Objects
 This initial step holds significant importance as it lays the groundwork for subsequent projects, including HTML/CSS templating, database storage, API integration, and front-end development. Steps are:
