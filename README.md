@@ -23,7 +23,7 @@ This initial step holds significant importance as it lays the groundwork for sub
 # Running the Console
 You can utilize the console in both interactive and non-interactive modes:
 Interactive mode:
-( $ ./console.py
+$ ./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
@@ -55,16 +55,15 @@ Documented commands (type help <topic>):
 EOF  help  quit
 (hbnb) 
 $
-)
 
 # Supported Commands
-create - Create an object
-show - Display an object based on its ID
-destroy - Delete an object
-all - Show all objects, either of one specific type or all types
-update - Modify an instance based on the class name and ID
-quit/EOF - Exit the console
-help - Obtain descriptions of available commands
+* create - Create an object
+* show - Display an object based on its ID
+* Destroy - Delete an object
+* All - Show all objects, either of one specific type or all types
+* Update - Modify an instance based on the class name and ID
+* Quit/EOF - Exit the console
+* Help - Obtain descriptions of available commands
 To initiate the console, use the following command in your shell:
 AirBnB_clone$ ./console.py
 (hbnb) 
