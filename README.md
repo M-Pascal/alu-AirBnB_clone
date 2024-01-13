@@ -12,13 +12,13 @@ Think of it as similar to the Shell, but tailored to a specific use-case. In our
 
 # Steps that will taken to Develop a Command Interpreter for Managing AirBnB Objects
 This initial step holds significant importance as it lays the groundwork for subsequent projects, including HTML/CSS templating, database storage, API integration, and front-end development. Steps are:
-The console: this where we create objects, it will help undertand serialization/deserialization and created our first stotage as well.
-HTML file for making application pretty and creating visual interface for future user.
-MySQL where we will be dealing with difference type of storage (Data Base).
-Deployment of HTML with fabric will help us to put all things we made on the servers.
-The flask web application server where we will taking model that are in storage and we will be able to intergrate it with HTML.
-RestAPI where take object and we can put them in the into JSON.
-Dynamic where we can talke JSON API and we intregrate it with HTML so that we can be able to share our web application we have developed (AirBnB).
+* The console: this where we create objects, it will help undertand serialization/deserialization and created our first stotage as well.
+* HTML file for making application pretty and creating visual interface for future user.
+* MySQL where we will be dealing with difference type of storage (Data Base).
+* Deployment of HTML with fabric will help us to put all things we made on the servers.
+* The flask web application server where we will taking model that are in storage and we will be able to intergrate it with HTML.
+* RestAPI where take object and we can put them in the into JSON.
+* Dynamic where we can talke JSON API and we intregrate it with HTML so that we can be able to share our web application we have developed (AirBnB).
 
 # Running the Console
 You can utilize the console in both interactive and non-interactive modes:
