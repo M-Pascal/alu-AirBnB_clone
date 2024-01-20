@@ -99,13 +99,14 @@ Defines quit option
 (hbnb)
 
 # Supported classes
-BaseModel
-User
-State
-City
-Amenity
-Place
-Review
+* BaseModel
+* User
+* State
+* City
+* Amenity
+* Place
+* Review
 
 # Authors
-Pascal Mugisha - P.mugisha@alustudent.com
+Pascal Mugisha - p.mugisha@alustudent.com
+Oden Emmanuel - e.oden@alustudent.com
